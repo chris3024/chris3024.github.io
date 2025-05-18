@@ -7,12 +7,3 @@ plugins:
 title: Christopher Sharp
 description: Portfolio website for CS 499
 
-sass:
-  style: compressed
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
