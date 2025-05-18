@@ -1,1 +1,19 @@
+/* Import the base theme’s styles */
+@import "{{ site.theme }}";
+
+/* Custom button styles */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0366d6;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #024ea2;
+}
 
