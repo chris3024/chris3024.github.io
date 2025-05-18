@@ -7,15 +7,12 @@ plugins:
 title: Christopher Sharp
 description: Portfolio website for CS 499
 
-# Enable Sass processing
 sass:
   style: compressed
 
-# This line tells Jekyll to load your SCSS file
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: default
-      css: "/assets/css/style.scss"
