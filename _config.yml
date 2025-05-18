@@ -1,5 +1,21 @@
 remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
 title: Christopher Sharp
-description: [Portfolio website for CS 499]
+description: Portfolio website for CS 499
+
+# Enable Sass processing
+sass:
+  style: compressed
+
+# This line tells Jekyll to load your SCSS file
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: "/assets/css/style.scss"
