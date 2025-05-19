@@ -38,6 +38,7 @@ enhancements for the code and how it aligns with the course outcomes.
 
 ### Enhancement 1
 
+<a href="https://github.com/chris3024/IT-145-Pet-Rescue" targert="_blank">Original Artifact</a> | <a href="https://github.com/chris3024/CS_499_Enhancement_1" target="_blank">Enhanced Artifact</a>
 <hr>
 
 ### Enhancement 2
