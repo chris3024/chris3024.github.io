@@ -72,7 +72,7 @@ For the enhancement of this program, we have expanded on the application by intr
 <img src="screenshots/Screenshot 2025-05-18 125114.png"/>
 
 #### Add Animal Window
-<img src="screenshots/Screenshot 2025-05-19 153350.png"/>
+<img src="screenshots/Screenshot 2025-05-19 153350.png" height="252"/>
 
 <div class="button-group" style="text-align:center;">
   <a href="https://github.com/chris3024/chris3024.github.io/blob/main/narratives/Sharp_Christopher_EnhancementOne_SoftwareDesignandEngineering.pdf" class="fancy-button" target="_blank" rel="noopener noreferrer">Full Narrative</a>
