@@ -30,16 +30,6 @@
 
 <hr style="width:90%; height:3px;">
 
-### Table of Contents
-[Professional Self Assessment](#professional-self-assessment)<br>
-[Portfolio Summary and Course Outcomes](#portfolio-summary-and-course-outcomes)<br>
-[Code Review Video](#code-review-video)<br>
-[Software Design and Engineering](#software-design-and-engineering)<br>
-[Enhancement 2](#enhancement-2)<br>
-[Enhancement 3](#enhancement-3)<br>
-
-<hr style="width:90%; height:3px;">
-
 ### Professional Self Assessment
 
 <hr style="width:90%; height:3px;">
