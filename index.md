@@ -1,4 +1,4 @@
-# CS-499 | Professional Portfolio
+# CS-499 | Professional ePortfolio
 
 ### Introduction
 
