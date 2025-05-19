@@ -25,8 +25,9 @@ enhancements for the code and how it aligns with the course outcomes.
     picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
   </iframe>
 </div>
+<br>
 
-<hr style="width:90%; height:3px;">
+<hr style="width:100%; height:3px;">
 
 ### Software Design and Engineering
 
