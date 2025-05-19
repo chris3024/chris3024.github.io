@@ -4,6 +4,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+sass:
+  style: compressed
+
 title: Christopher Sharp
 description: B.S. in Computer Science, Information Security Concentration | Southern New Hampshire University, Class of 2025  
 
