@@ -4,15 +4,15 @@
 
 ### Introduction
 
-<hr style="width:90%; height:3px;">
+<hr style="width:100%; height:3px;">
 
 ### Professional Self Assessment
 
-<hr style="width:90%; height:3px;">
+<hr style="width:100%; height:3px;">
 
 ### Portfolio Summary and Course Outcomes
 
-<hr style="width:90%; height:3px;">
+<hr style="width:100%; height:3px;">
 
 ### Code Review Video
 
@@ -44,7 +44,7 @@ For the enhancement of this program, we have expanded on the application by intr
 </div>
 
 
-<hr style="width:90%; height:3px;">
+<hr style="width:100%; height:3px;">
 
 ### Enhancement 2
 
@@ -54,7 +54,7 @@ For the enhancement of this program, we have expanded on the application by intr
   <a href="https://github.com/chris3024/CS_499_Enhancement_1" class="fancy-button" target="_blank" rel="noopener noreferrer">Enhanced Artifact</a>
 </div>
 
-<hr style="width:90%; height:3px;">
+<hr style="width:100%; height:3px;">
 
 ### Enhancement 3
 
