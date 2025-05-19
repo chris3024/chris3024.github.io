@@ -194,6 +194,20 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.button {
+  display: inline-block;
+  padding: 8px 14px;
+  margin: 4px;
+  background-color: #f3f3f3;
+  color: #000;
+  border: 2px solid #0d6efd;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease-in-out;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
