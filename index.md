@@ -1,3 +1,29 @@
+<style>
+.fancy-button {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 6px 6px 6px 0;
+  background-color: #f4f4f4;
+  border: 2px solid #0d6efd;
+  border-radius: 8px;
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease-in-out;
+}
+
+.fancy-button:hover {
+  background-color: #0d6efd;
+  color: #fff;
+}
+
+.button-group {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+</style>
+
 # CS-499 | Professional ePortfolio
 
 ### Introduction
@@ -38,8 +64,9 @@ enhancements for the code and how it aligns with the course outcomes.
 
 ### Enhancement 1
 
-<div class="button">
-  <a href="https://github.com/chris3024/IT-145-Pet-Rescue" targert="_blank">Original Artifact</a> | <a href="https://github.com/chris3024/CS_499_Enhancement_1" target="_blank">Enhanced Artifact</a>
+<div class="button-group" style="text-align:center;">
+  <a href="https://github.com/chris3024/IT-145-Pet-Rescue" class="fancy-button" targert="_blank">Original Artifact</a>
+  <a href="https://github.com/chris3024/CS_499_Enhancement_1" class="fancy-button "target="_blank">Enhanced Artifact</a>
 </div>
 <hr>
 
