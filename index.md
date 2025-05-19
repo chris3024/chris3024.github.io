@@ -28,7 +28,7 @@
 
 ### Introduction
 
-<hr>
+<hr style="width:90%; height:3px;">
 
 ### Table of Contents
 [Professional Self Assessment](#professional-self-assessment)<br>
@@ -38,15 +38,15 @@
 [Enhancement 2](#enhancement-2)<br>
 [Enhancement 3](#enhancement-3)<br>
 
-<hr>
+<hr style="width:90%; height:3px;">
 
 ### Professional Self Assessment
 
-<hr>
+<hr style="width:90%; height:3px;">
 
 ### Portfolio Summary and Course Outcomes
 
-<hr>
+<hr style="width:90%; height:3px;">
 
 ### Code Review Video
 
@@ -60,7 +60,7 @@ enhancements for the code and how it aligns with the course outcomes.
   </iframe>
 </div>
 
-<hr>
+<hr style="width:90%; height:3px;">
 
 ### Enhancement 1
 
@@ -70,10 +70,10 @@ enhancements for the code and how it aligns with the course outcomes.
   <a href="https://github.com/chris3024/CS_499_Enhancement_1" class="fancy-button" target="_blank" rel="noopener norederrer">Enhanced Artifact</a>
 </div>
 
-<hr>
+<hr style="width:90%; height:3px;">
 
 ### Enhancement 2
 
-<hr>
+<hr style="width:90%; height:3px;">
 
 ### Enhancement 3
