@@ -50,7 +50,7 @@
 
 ### Code Review Video
 
-In this code review video, I break down the original artifacts by describing their origins and how the code functions. I also touch upon some of the faults that I found in the code. Finally, I break down the planned
+In this code review video, I describe the original artifacts and their origins and how the code functions. I also touch upon some of the faults that I found in the code. Finally, I break down the planned
 enhancements for the code and how it aligns with the course outcomes.
 <div style="position: relative;"> 
   <iframe width="560" height="315" 
@@ -65,7 +65,7 @@ enhancements for the code and how it aligns with the course outcomes.
 ### Enhancement 1
 
 <div class="button-group" style="text-align:center;">
-  <a href="" class="fancy-button" target="_blank" rel="noopener noreferrer">Full Narrative</a>
+  <a href="https://github.com/chris3024/chris3024.github.io/blob/main/narratives/Sharp_Christopher_EnhancementOne_SoftwareDesignandEngineering.pdf" class="fancy-button" target="_blank" rel="noopener noreferrer">Full Narrative</a>
   <a href="https://github.com/chris3024/IT-145-Pet-Rescue" class="fancy-button" target="_blank" rel="noopener noreferrer">Original Artifact</a>
   <a href="https://github.com/chris3024/CS_499_Enhancement_1" class="fancy-button" target="_blank" rel="noopener noreferrer">Enhanced Artifact</a>
 </div>
