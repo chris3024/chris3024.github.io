@@ -43,9 +43,12 @@ enhancements for the code and how it aligns with the course outcomes.
 
 <hr style="width:100%; height:3px;">
 
-### Enhancement 2
-***Description:***
-***Enhancement:***
+### Algorithms and Data Structures
+***Description:*** The original artifact for this enhancement comes from the coursework that was completed in CS-300: Data Structures and Algorithms, Analysis and Design. This console-based C++ program was created to assist academic advisors at the fictional university, ABCU. This application imports the data from a CSV file and inserts it into a vector data structure for partitioning and sorting. Then, from a menu system, users can list the courses in alphabetical order or search for a specific course, returning its data, which includes the course number, name, and any prerequisites. 
+
+***Enhancement:*** For the enhancement in this category, I decided to replace the vector data structure, which is neither the most efficient nor scalable, with the use of a self-balancing AVL tree. By replacing it with a self-balancing AVL tree, we are allowing for more scalability of the software, but also allowing for quicker insertions and lookups. Also, the code was modernized with the introduction of unique pointers, which allow for automated memory management, and the implementation of null checks, input sanitization, and structured exception handling increased the security of the software. 
+
+
 ### Insertion Method for AVL tree
 <img src="screenshots/Screenshot 2025-05-30 110438.png"/>
 
@@ -57,9 +60,10 @@ enhancements for the code and how it aligns with the course outcomes.
 
 <hr style="width:100%; height:3px;">
 
-### Enhancement 3
-***Description:***
-***Enhancement:***
+### Databases
+***Description:*** The original artifact for this enhancement comes from a project we completed in my IT-145: Foundation in Application Development course. This code was refined for enhancement one, software design and engineering, with the implementation of a Graphical User Interface (GUI) and data persistence with the use of JSON files, while keeping all of the same functionality of the original code base. 
+
+***Enhancement:*** For the enhancement in this category, I took the Grazioso Salvare Animal Rescue application and replaced the implementation of file I/O with the use of MongoDB. For this, I created the CRUD schema that performed the operations of creating, reading, updating, and deleting the data from the database. In addition to the use of a database for data persistence, the security of the application was also enhanced. For this, role-based access control (RBAC) was implemented with the use of hashed and salted passwords using the bcrypt library.
 
 #### CRUD Methods
 <img src="screenshots/Screenshot 2025-06-10 115800.png"/>
