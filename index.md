@@ -65,7 +65,7 @@ enhancements for the code and how it aligns with the course outcomes.
 
 ***Enhancement:*** For the enhancement in this category, I took the Grazioso Salvare Animal Rescue application and replaced the implementation of file I/O with the use of MongoDB. For this, I created the CRUD schema that performed the operations of creating, reading, updating, and deleting the data from the database. In addition to the use of a database for data persistence, the security of the application was also enhanced. For this, role-based access control (RBAC) was implemented with the use of hashed and salted passwords using the bcrypt library.
 
-#### CRUD Methods
+#### Main Application Window (Login Window)
 <img src="screenshots/Screenshot 2025-06-10 115800.png"/>
 
 <div class="button-group" style="text-align:center;">
