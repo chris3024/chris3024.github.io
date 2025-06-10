@@ -2,7 +2,7 @@
 
 # CS-499 | Professional ePortfolio (Work In Progress)
 
-### Introduction and Professional Self Assessment
+### Introduction and Professional Self-Assessment
 
 <hr style="width:100%; height:3px;">
 
@@ -62,9 +62,10 @@ enhancements for the code and how it aligns with the course outcomes.
 ***Enhancement:***
 
 #### CRUD Methods
+<img src="screenshots/Screenshot 2025-06-10 115800.png"/>
 
 <div class="button-group" style="text-align:center;">
-  <a href="" class="fancy-button" target="_blank" rel="noopener noreferrer">Full Narrative</a>
+  <a href="narratives/Sharp_Christopher_EnhancementThree_Databases.pdf" class="fancy-button" target="_blank" rel="noopener noreferrer">Full Narrative</a>
   <a href="https://github.com/chris3024/IT-145-Pet-Rescue" class="fancy-button" target="_blank" rel="noopener noreferrer">Original Artifact</a>
-  <a href="https://github.com/chris3024/CS_499_Enhancement_1" class="fancy-button" target="_blank" rel="noopener noreferrer">Enhanced Artifact</a>
+  <a href="https://github.com/chris3024/CS_499_Enhancement_3" class="fancy-button" target="_blank" rel="noopener noreferrer">Enhanced Artifact</a>
 </div>
