@@ -4,9 +4,15 @@
 
 ### Introduction and Professional Self-Assessment
 
-My name is Christopher, and I began pursuing a Bachelor’s degree in Computer Science with a concentration in Information Security in October 2020. Balancing a full-time job, family life, and coursework has been one of the biggest challenges I’ve faced, but also one of the most rewarding. It taught me how to manage my time effectively, stay focused, and push through when things got tough.
-
 Throughout the program, I built a strong foundation in software development, databases, algorithms, and secure coding practices. I’ve worked on a variety of projects that pushed me to think critically, write maintainable code, and apply what I’ve learned to real-world scenarios. Over time, I’ve grown more confident in my ability to design and build systems that are both functional and secure.
+
+Developing my ePortfolio gave me the chance to bring all of these skills together. I enhanced previous coursework to reflect industry standards, added functionality, improved usability, and focused on security best practices. I also recorded a code review video to walk through the enhancements, explaining the original code base and issues, while also discussing the plan to improve upon them.  
+
+In addition to coding, I completed courses that covered networking, systems administration, and cybersecurity fundamentals. These included working with virtual machines, firewall configuration, vulnerability scanning, and applying security frameworks to systems and applications. Some classes used hands-on labs and tools like TestOut Network+, which gave me experience with real-world IT environments and troubleshooting scenarios. Other courses covered access control, encryption, and software hardening—skills I applied directly in my final enhancements.
+
+I’ve also gained experience with data structures like AVL trees and hashmaps, implemented secure CRUD operations using MongoDB, and followed secure coding practices like hashing passwords and enforcing login rules. These technical skills, combined with a solid foundation in problem solving and system design, have prepared me for a role in IT or software development.
+
+This program helped me grow not just as a developer but as a professional. I’m confident in my ability to contribute to real-world projects and continue learning as I move forward in the field.
 
 <hr style="width:100%; height:3px;">
 
