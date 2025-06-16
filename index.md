@@ -50,7 +50,7 @@ enhancements for the code and how it aligns with the course outcomes.
 ***Enhancement:*** To enhance this program, we have expanded the application by introducing a graphical user interface (GUI) built using the tkinter framework to improve usability. Additionally, we enhanced the software by incorporating file input/output capabilities to save data in JSON format, ensuring persistence across application runs. 
 
 #### Main GUI Window
-<img src="screenshots/Screenshot 2025-05-18 125114.png"/>
+<img src="screenshots/Screenshot 2025-05-18 125114.png" style="max-width: 100%; height: auto"/>
 
 <div class="button-group" style="text-align:center;">
   <a href="narratives/Sharp_Christopher_EnhancementOne_SoftwareDesignandEngineering.pdf" class="fancy-button" target="_blank" rel="noopener noreferrer">Full Narrative</a>
@@ -68,7 +68,7 @@ enhancements for the code and how it aligns with the course outcomes.
 
 
 ### Insertion Method for AVL tree
-<img src="screenshots/Screenshot 2025-05-30 110438.png"/>
+<img src="screenshots/Screenshot 2025-05-30 110438.png" style="max-width: 100%; height: auto"/>
 
 <div class="button-group" style="text-align:center;">
   <a href="narratives/Sharp_Christopher_EnhancementTwo_AlgorithmsAndDataStructures.pdf" class="fancy-button" target="_blank" rel="noopener noreferrer">Full Narrative</a>
@@ -84,7 +84,7 @@ enhancements for the code and how it aligns with the course outcomes.
 ***Enhancement:*** For the enhancement in this category, I took the Grazioso Salvare Animal Rescue application and replaced the implementation of file I/O with the use of MongoDB. For this, I created the CRUD schema that performed the operations of creating, reading, updating, and deleting the data from the database. In addition to the use of a database for data persistence, the security of the application was also enhanced. For this, role-based access control (RBAC) was implemented with the use of hashed and salted passwords using the bcrypt library.
 
 #### Main Application Window (Login Window)
-<img src="screenshots/Screenshot 2025-06-10 115800.png"/>
+<img src="screenshots/Screenshot 2025-06-10 115800.png" style="max-width: 100%; height: auto"/>
 
 <div class="button-group" style="text-align:center;">
   <a href="narratives/Sharp_Christopher_EnhancementThree_Databases.pdf" class="fancy-button" target="_blank" rel="noopener noreferrer">Full Narrative</a>
