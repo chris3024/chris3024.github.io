@@ -12,21 +12,6 @@
 
 <hr style="width:100%; height:3px;">
 
-### Course Outcomes
-
-1.	_Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science._
-     
-2.	_Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts._
-	  
-3.	_Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices._
-    
-4.	_Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals._
-  
-5.	_Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources._ 
-
-
-<hr style="width:100%; height:3px;">
-
 ### Code Review Video
 
 In this code review video, I describe the original artifacts and their origins and how the code functions. I also touch upon some of the faults that I found in the code. Finally, I break down the planned
