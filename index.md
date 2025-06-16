@@ -4,6 +4,10 @@
 
 ### Introduction and Professional Self-Assessment
 
+My name is Christopher, and I began pursuing a Bachelor’s degree in Computer Science with a concentration in Information Security in October 2020. Balancing a full-time job, family life, and coursework has been one of the biggest challenges I’ve faced, but also one of the most rewarding. It taught me how to manage my time effectively, stay focused, and push through when things got tough.
+
+Throughout the program, I built a strong foundation in software development, databases, algorithms, and secure coding practices. I’ve worked on a variety of projects that pushed me to think critically, write maintainable code, and apply what I’ve learned to real-world scenarios. Over time, I’ve grown more confident in my ability to design and build systems that are both functional and secure.
+
 <hr style="width:100%; height:3px;">
 
 ### Portfolio Summary
