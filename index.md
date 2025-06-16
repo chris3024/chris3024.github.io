@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-# CS-499 | Professional ePortfolio (Work In Progress)
+# CS-499 | Professional ePortfolio 
 
 ### Introduction and Professional Self-Assessment
 
